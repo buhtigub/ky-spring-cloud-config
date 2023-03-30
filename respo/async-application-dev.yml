@@ -7,12 +7,12 @@ application:
   appName: 应用名称远程
   useExternalIP: true
   appType: 0
-spring:
-  cloud:
-    config:
+#spring:
+#  cloud:
+#    config:
       #用于指示可以使用systemPropertiesOverride的标志。设置为false可防止用户意外更改默认值。默认为true。
-      allow-override: true
+#      allow-override: true
       #指示扩展/外部属性应覆盖系统属性的标志。默认为true。
-      override-system-properties: off
+#      override-system-properties: off
       #此标志指示当allowOverride为true时，扩展/外部属性应具有最低优先级，并且不应覆盖任何现有属性源（包括本地配置文件）。默认值为false。
-      override-none: true
+#     override-none: true
