@@ -1,1 +1,9 @@
 remoteConfig: 123456
+application:
+  appId: 851107189815906304
+  appKey: edda2b8d82f749e2b4d64481ba95cef3
+  appCode: org
+  appSecret: f8f3c1561caf41cb94a4a9fd10e5c959
+  appName: 应用名称远程
+  useExternalIP: true
+  appType: 0
